@@ -8,13 +8,17 @@ h1 {
     font-size: 1.3em;
 }
 
+h2 {
+    font-weight: 700
+}
+
 .post-title {
     font-size: 1.3em;
     line-height: 1.3;
     letter-spacing: normal;
 }
 
-body {
+body, h2 {
     font-family: 'Georgia', 'Times New Roman', Times, serif;
     font-size: 1.3em;
 }
