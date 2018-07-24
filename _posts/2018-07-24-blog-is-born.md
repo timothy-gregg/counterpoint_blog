@@ -6,7 +6,7 @@ title: "A blog is born"
 
 After a bit of fiddling, I’ve got my new blog up and running. This site will serve as a clearing house for my journalism, research, and weird philosophical musings. Mostly I’ll be exploring Australian politics through an analytical lens. 
 
-I called the site Counterpoint because I hope it will provide a unique perspective on current affairs. I’m inspired by sites like [FiveThirtyEight](http://fivethirtyeight.com) and the Guardian Datablog. I think we need more data journalism in the Australian conversation. 
+I called the site Counterpoint because I hope it will provide a unique perspective on current affairs. I’m inspired by sites like [FiveThirtyEight](http://fivethirtyeight.com){:target="_blank"} and the Guardian Datablog. I think we need more data journalism in the Australian conversation. 
  
 Data journalism?
 --- 
