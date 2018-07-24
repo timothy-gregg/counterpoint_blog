@@ -23,7 +23,7 @@ For data analysis, my weapon of choice is the Python programming language. I’m
 
 This site is built with Jekyll and hosted on GitHub Pages. Until recently I used WordPress for all my web projects. This time around, I decided to try a different approach. 
 
-Jekyll requires a bit more technical competence than WordPress, but it’s well worth it. I love the simplicity and purity of a static site generator. There’s no database. Nothing to update or maintain. I can simply write a blog post, save it as a Markdown file, and hey presto: it’s published. 
+Jekyll requires a bit more technical competence than WordPress, but it’s well worth the effort. I love the simplicity and purity of a static site generator. There’s no database. Nothing to update or maintain. I can simply write a blog post, save it as a Markdown file, and hey presto: it’s published. 
 
 I’m writing this blog as a side project in my spare time, so you can expect updates to be infrequent and irregular. I’ll get a mailing list going at some point. 
 
