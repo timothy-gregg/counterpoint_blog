@@ -6,7 +6,7 @@ title: "A blog is born"
 
 After a bit of fiddling, I’ve got my new blog up and running. This site will serve as a clearing house for my journalism, research, and weird philosophical musings. Mostly I’ll be exploring Australian politics through an analytical lens. 
 
-I called the site Counterpoint because I hope it will provide a unique perspective on current affairs. I’m inspired by sites like [FiveThirtyEight](http://fivethirtyeight.com){:target="_blank"} and the Guardian Datablog. I think we need more data journalism in the Australian conversation. 
+I called the site Counterpoint because I hope it will provide a unique perspective on current affairs. I’m inspired by sites like [FiveThirtyEight](http://fivethirtyeight.com){:target="_blank"} and the [Guardian Datablog](https://www.theguardian.com/data){:target="_blank"}. I reckon we need more data journalism in the Australian conversation. 
  
 Data journalism?
 --- 
@@ -14,14 +14,14 @@ It’s a lame buzzwword, I agree. But I can’t think of a snappier description 
 
 Many moons ago, I studied journalism at the University of Queensland. I’ve worked on-and-off as a freelance journo for the past decade. But only recently have I become interested in computer science. I’ve begun to appreciate the immense power and creative potential that programming brings to the craft of storytelling. 
 
-I’m very much a journalist first, programmer second. If you’re looking for any sort of reliable advice on coding, you’re in the wrong place. But I’ll publish what I learn anyway. Maybe someone will find it useful. I’ll also make the code and data for my stories available on GitHub.   
+I’m very much a journalist first, programmer second. If you’re looking for any sort of reliable advice on coding, you’re in the wrong place. But I’ll publish what I learn anyway. Maybe someone will find it useful. I’ll also make the code and data for my stories available on [GitHub](https://github.com/timothy-gregg){:target="_blank"}.   
 
 
 My tech stack
 ---
-For data analysis, my weapon of choice is the Python programming language. I’m still pretty bad at using it, but I get a bit better every day. I’m also learning to use R for statistical stuff. 
+For data analysis, my weapon of choice is the [Python programming language](http://python.org){:target="_blank"}. I’m still pretty bad at using it, but I get a bit better every day. I’m also learning to use [R](https://www.r-project.org/){:target="_blank"} for statistical analysis.
 
-This site is built with Jekyll and hosted on GitHub Pages. Until recently I used WordPress for all my web projects. This time around, I decided to try a different approach. 
+This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on GitHub Pages. Until recently I used [WordPress](http://wordpress.org){:target="_blank"} for all my web projects. This time around, I decided to try a different approach.
 
 Jekyll requires a bit more technical competence than WordPress, but it’s well worth the effort. I love the simplicity and purity of a static site generator. There’s no database. Nothing to update or maintain. I can simply write a blog post, save it as a Markdown file, and hey presto: it’s published. 
 
