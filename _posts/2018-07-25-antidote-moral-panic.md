@@ -9,7 +9,7 @@ I don't agree with everything Pinker says, but he makes some salient observation
 
 In Australia, our current obsession with an "African crime wave" is a good example of the disconnect between perception and reality. Since the issue of Melbourne's Sudanese youth gangs first got traction in the media in late 2017, it has exploded into the public consciousness and become a _cause célèbre_ for some of our less enlightened politicians. 
 
-This chart from Google Trends shows you how many Australians searched for the term "African crime" in 2017.
+This chart from Google Trends shows you how often Australians searched for the term "African crime" in 2017.
 
 <script class="chart" type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1480_RC02/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"african crime","geo":"AU","time":"2017-01-01 2017-12-31"}],"category":0,"property":""}, {"exploreQuery":"date=2017-01-01%202017-12-31&geo=AU&q=african%20crime","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
