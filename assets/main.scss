@@ -13,7 +13,7 @@ h1 {
     font-size: 1em;
 }
 
-.post-content a {
+.post-content a, a:visited {
     text-decoration: underline;
     text-decoration-color: #828282;
 }
@@ -81,7 +81,7 @@ a.site-title,a.page-link {
     
 }
 
-a, a:visited {
+a.footer-col, a:visited.footer-col {
     // color: #000;
     text-decoration: none;
 }
