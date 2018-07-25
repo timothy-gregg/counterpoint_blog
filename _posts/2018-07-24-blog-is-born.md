@@ -19,7 +19,7 @@ I’m very much a journalist first, programmer second. If you’re looking for a
 
 My tech stack
 ---
-For data analysis, my weapon of choice is the [Python programming language](http://python.org){:target="_blank"}. I’m still pretty bad at using it, but I get a bit better every day. I’m also learning to use [R](https://www.r-project.org/){:target="_blank"} for statistical analysis.
+For data analysis, my weapon of choice is the [Python](http://python.org){:target="_blank"} programming language. I’m still pretty bad at using it, but I get a bit better every day. I’m also learning to use [R](https://www.r-project.org/){:target="_blank"} for statistical stuff.
 
 This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} and hosted on GitHub Pages. Until recently I used [WordPress](http://wordpress.org){:target="_blank"} for all my web projects. This time around, I decided to try a different approach.
 
