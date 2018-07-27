@@ -8,7 +8,7 @@ Not only is crime rare in the Victorian capital, but crime committed by immigran
 
 Nonetheless, we mention it plenty. Some of our nation's most prominent voices are doing their best to whip up a moral panic about "African crime". Everyone from the Prime Minister down seems to have jumped on this ugly, xenophobic bandwagon. 
 
-To appreciate how far out of proprotion....., let's take a look at some statistics. Based on the official data from 2012 to 2016, this is what an average year in Victoria looks like:
+To put this issue into some much-needed perspective, let's take a look at the statistics--not about crime, but about life in general. Based on the official data from 2012 to 2016, this is what an average year in Victoria looks like:
 
 - 4,982 people are seriously injured in a car accident
 - 2,024 people suffer a fatal heart attack

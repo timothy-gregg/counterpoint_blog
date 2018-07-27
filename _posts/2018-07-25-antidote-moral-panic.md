@@ -21,9 +21,9 @@ In any case, no matter how overrepresented Sudanese criminals may be, they still
 
 There's a familiar pattern here. The media picks up on a handful of isolated incidents and gives them front-page coverage. Moral panic ensues. More media coverage follows because it's what people want to read. Then the politicians start talking about it, which generates even more media coverage, and we're off to the races. 
 
-Some Sudanese kids trash a house in Melbourne, and suddenly we're in the grips of an African crime wave. Never mind the fact that your house is far more likely to be trashed by Australian kids. 
+Some Sudanese kids trash a house in Melbourne, and suddenly we're in the grips of an African crime wave. A couple of people die in bar brawls in Sydney, and suddenly we face an epidemic of alcohol-fuelled violence. 
 
-A couple of people die in bar brawls in Sydney, and suddenly we face an epidemic of alcohol-fuelled violence. Never mind the fact that both violence and alcohol consumption are at historically low levels. ([I wrote about this](https://www.smh.com.au/opinion/australia-doesnt-have-a-problem-with-alcohol-we-have-a-problem-with-violence-20150120-12u3eb.html){:target="_blank"} in the _Sydney Morning Herald_ back in 2015, at the height of our coward-punch hysteria.) 
+Never mind the fact that your house is far more likely to be trashed by Australian kids. Never mind the fact that both violence and alcohol consumption are at historically low levels. ([I wrote about this](https://www.smh.com.au/opinion/australia-doesnt-have-a-problem-with-alcohol-we-have-a-problem-with-violence-20150120-12u3eb.html){:target="_blank"} in the _Sydney Morning Herald_ back in 2015, at the height of our coward-punch hysteria.) 
 
 I don't mean to disrespect the people who fall victim to these crimes or to diminish their suffering. I'm simply pointing out that these people are, thankfully, a tiny minority. These incidents are rare, which is precisely why they shock us. If they happened every day, we wouldn't even notice. 
 
