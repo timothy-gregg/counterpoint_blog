@@ -29,7 +29,7 @@ a:hover {
 
 }
 
-.post-content a:hover {
+.footer-col a:hover, .post-content a:hover {
     text-decoration: none;
     background-color: #ffc401;
 }
@@ -80,25 +80,26 @@ body, h1, h2, a, a:visited, .site-title {
 
 .footer-col-wrapper {
     font-family: 'Consolas', 'Courier New', Courier, monospace;
-    font-size: 0.85rem;
+    font-size: 1rem;
     word-spacing: -0.1rem;
 }
 
 .footer-col-1 {
-    width: -webkit-calc(33% - (30px / 2));
-    width: calc(33% - (30px / 2)); 
+    width: -webkit-calc(100%);
+    width: calc(100%); 
 }
-
-.footer-col-2 {
-    width: -webkit-calc(33% - (30px / 2));
-    width: calc(33% - (30px / 2));
- }
 
 .footer-col-3 {
-    width: -webkit-calc(33% - (30px / 2));
-    width: calc(33% - (30px / 2)); 
+    width: -webkit-calc(50%);
+    width: calc(50%);
     text-align: right;
-}
+ }
+
+// .footer-col-3 {
+//     width: -webkit-calc(33% - (30px / 2));
+//     width: calc(33% - (30px / 2)); 
+//     text-align: right;
+// }
 
 .prev-post {
     width: -webkit-calc(25%);
