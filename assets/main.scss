@@ -73,7 +73,8 @@ body {
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
-}
+    text-rendering: optimizeLegibility;
+}   
 
 body, h1, h2, a, a:visited, .site-title {
     color: #111111;
