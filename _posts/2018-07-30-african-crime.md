@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The African crime thing isn't really a thing
+title: African crime is not a real thing
 ---
 
 Christopher Pyne was recently asked if he felt afraid on the streets of Melbourne. His response was “no, why?”.
