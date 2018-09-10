@@ -42,6 +42,14 @@ a:hover {
 
 .site-header {
     border-top:none;
+    border-bottom: 1px solid;
+    border-bottom-color: #c9c9c9;
+}
+
+.site-footer {
+    border-top: 1px solid;
+    padding-top: 20px;
+    border-top-color: #c9c9c9;
 }
 
 
@@ -168,6 +176,7 @@ a.footer-col, a:visited.footer-col {
 
 .page-content {
     padding-top: 60px;
+    
 }
 
 .wrapper, body {
@@ -196,7 +205,7 @@ a.footer-col, a:visited.footer-col {
 // }
 
 html, body {
-    background-color: #fffff8;
+    background-color: #f8f2e3;
 }
 
 
