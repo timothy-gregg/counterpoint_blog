@@ -11,7 +11,7 @@ Researching our former leaders is easy enough. The Department of Prime Minister 
 
 With this architecture, it's easy to write a for-loop or while-loop that iterates through every transcript and extracts the relevant content from the XML file. I'll publish that code in a separate post. 
 
-The website of the current Prime Minister is much harder to navigate. There's no logical or sequential structure to the URLs, and the transcripts are only available as raw HTML. To get around this limitation, I wrote a web scraper in Python, using an excellent HTML-parsing library called [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup){:target="_blank"}. 
+The [website of the current Prime Minister](https://pm.gov.au/media){:target="_blank"} is much harder to navigate. There's no logical or sequential structure to the URLs, and the transcripts are only available as raw HTML. To get around this limitation, I wrote a web scraper in Python, using an excellent HTML-parsing library called [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup){:target="_blank"}. 
 
 Basically, here's what the program does:
 
