@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title: The antidote to moral panic
+author: Tim Gregg
 ---
 
 I'm yet to read Steven Pinker's new book, _Enlightenment Now_, but it's on my list. In the meantime, I'm watching his recent talks on YouTube. [This is a good one](https://www.youtube.com/watch?v=PDAoEyrvf8Y){:target="_blank"}.

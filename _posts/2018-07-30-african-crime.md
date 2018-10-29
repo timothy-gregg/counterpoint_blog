@@ -1,6 +1,7 @@
 ---
 layout: post
 title: African crime is not a real thing
+author: Tim Gregg
 ---
 
 Christopher Pyne was recently asked if he felt afraid on the streets of Melbourne. His response was “no, why?”.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to scrape ScoMo
+author: Tim Gregg
 ---
 
 I'm working on a research project that requires some heavy-duty web scraping. My goal is to build a dataset of every public word spoken by every Prime Minister since Howard. I'm interested in using natural language processing tools like [spaCy](https://spacy.io/){:target="_blank"} and [NLTK](https://www.nltk.org/){:target="_blank"} to analyse the vocabularies of our recent PMs. 

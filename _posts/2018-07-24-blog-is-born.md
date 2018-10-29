@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A blog is born"
+author: Tim Gregg
 ---
 
 
