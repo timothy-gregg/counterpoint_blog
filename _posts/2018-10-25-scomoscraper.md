@@ -23,7 +23,7 @@ Basically, here's what the program does:
 
 My code is neither elegant nor efficient, but it gets the job done. By running this script two or three times a week, I can keep my database up-to-date with ScoMo's latest utterances. 
 
-The gist is below. The full repo is on [GitHub](https://github.com/timothy-gregg/ScoMoScraper){:target="_blank"}. Enjoy. 
+The gist is below, and the full repo is on [GitHub](https://github.com/timothy-gregg/ScoMoScraper){:target="_blank"}. Enjoy. 
   
     
 
